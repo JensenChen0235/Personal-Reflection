@@ -17,4 +17,4 @@ Today I tried to make an APP by using AI.
 First, I figure out how to use prompt to generate the codes(Gemini). And then I wrap the code to github. Finally I select Zeabur to connect and finalized the code, which is able to make the html file online and looks like an APP.
 The tutorial link is from wechat. [https://mp.weixin.qq.com/s/PNvK-P6UcDlbXN9o6WISMQ]
 <img width="3456" height="2052" alt="image" src="https://github.com/user-attachments/assets/5342d368-762b-4e3e-b34d-fb2875bcedb9" />
-
+[https://jensencal1.zeabur.app/]
