@@ -12,3 +12,9 @@ An agent is not just acting as the user, it is a new actor in your system.
 It's not a year of agents, it's a decade of agents.
 <img width="850" height="516" alt="image" src="https://github.com/user-attachments/assets/6ae057d7-028f-4f48-b702-113295349bc7" />
 His picture on the wall can move___maybe everything can be interacted?
+
+Today I tried to make an APP by using AI. 
+First, I figure out how to use prompt to generate the codes(Gemini). And then I wrap the code to github. Finally I select Zeabur to connect and finalized the code, which is able to make the html file online and looks like an APP.
+The tutorial link is from wechat. [https://mp.weixin.qq.com/s/PNvK-P6UcDlbXN9o6WISMQ]
+<img width="3456" height="2052" alt="image" src="https://github.com/user-attachments/assets/5342d368-762b-4e3e-b34d-fb2875bcedb9" />
+
