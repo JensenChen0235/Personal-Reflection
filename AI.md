@@ -33,6 +33,5 @@ The central challenge, and opportunity, lies in a new developer paradigm. We are
 | **Loop** | Iterative improvement needed | Writer + Critic refinement | Repeated cycles |
 
 
-| <img width="3456" height="2158" alt="image" src="https://github.com/user-attachments/assets/e6d565e5-1758-494d-a551-47eccedc60bf" />
- | <img width="3456" height="1916" alt="image" src="https://github.com/user-attachments/assets/8ced05d3-cf1f-4b44-b55a-2837f1a38990" />
- | Example | Key Feature |
+<img width="3456" height="2158" alt="image" src="https://github.com/user-attachments/assets/e6d565e5-1758-494d-a551-47eccedc60bf" />
+<img width="3456" height="1916" alt="image" src="https://github.com/user-attachments/assets/8ced05d3-cf1f-4b44-b55a-2837f1a38990" />
