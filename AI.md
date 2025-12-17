@@ -6,7 +6,7 @@ Today I tried to use AI in VScode to build my website, and I found it is quite e
 <img width="50%" height="1984" alt="image" src="https://github.com/user-attachments/assets/ad87d952-a3c8-40ee-89fb-9e43dce051d0" /><img width="50%" height="1984" alt="image" src="https://github.com/user-attachments/assets/bf7d4706-1aab-4dff-8efd-847b3dcf1608" />
 
 
-# 12.16
+# 12.16 
 An agent is not just acting as the user, it is a new actor in your system.
 <img width="1562" height="1782" alt="image" src="https://github.com/user-attachments/assets/4cb6f1d3-3094-4361-9c62-82f855f2d05d" />
 It's not a year of agents, it's a decade of agents.
@@ -20,3 +20,14 @@ The tutorial link is from wechat. [https://mp.weixin.qq.com/s/PNvK-P6UcDlbXN9o6W
 [https://jensencal1.zeabur.app/]
 
 The central challenge, and opportunity, lies in a new developer paradigm. We are no longer simply "bricklayers" defining explicit logic; we are "architects" and "directors" who must guide, constrain, and debug an autonomous entity. 
+
+# 12.17 I build several agents with the help of google adk
+
+### Quick Reference Table
+
+| Pattern | When to Use | Example | Key Feature |
+|---------|-------------|---------|-------------|
+| **LLM-based (sub_agents)** | Dynamic orchestration needed | Research + Summarize | LLM decides what to call |
+| **Sequential** | Order matters, linear pipeline | Outline → Write → Edit | Deterministic order |
+| **Parallel** | Independent tasks, speed matters | Multi-topic research | Concurrent execution |
+| **Loop** | Iterative improvement needed | Writer + Critic refinement | Repeated cycles |
