@@ -8,3 +8,19 @@
 absolutely fundamental 绝对至关重要
 
 "Walk us through" means to guide someone step-by-step, explaining a process, task, or situation in detail, 
+
+At the end of the day 归根结底
+
+A large language model's capacity to do anything makes it difficult to compel it to do one specific thing reliably and perfectly. 
+大型语言模型几乎无所不能，这使得很难强迫它可靠、完美地完成某件特定的事情。
+
+furnish 提供
+
+seamless 无缝的
+
+noise-canceling headphones 降噪耳机
+
+synthesize合成
+
+Grounding in Reality, Changing the World 立足现实，改变世界
+
