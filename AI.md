@@ -18,3 +18,5 @@ First, I figure out how to use prompt to generate the codes(Gemini). And then I 
 The tutorial link is from wechat. [https://mp.weixin.qq.com/s/PNvK-P6UcDlbXN9o6WISMQ]
 <img width="3456" height="2052" alt="image" src="https://github.com/user-attachments/assets/5342d368-762b-4e3e-b34d-fb2875bcedb9" />
 [https://jensencal1.zeabur.app/]
+
+The central challenge, and opportunity, lies in a new developer paradigm. We are no longer simply "bricklayers" defining explicit logic; we are "architects" and "directors" who must guide, constrain, and debug an autonomous entity. 
