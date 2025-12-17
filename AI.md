@@ -31,3 +31,7 @@ The central challenge, and opportunity, lies in a new developer paradigm. We are
 | **Sequential** | Order matters, linear pipeline | Outline → Write → Edit | Deterministic order |
 | **Parallel** | Independent tasks, speed matters | Multi-topic research | Concurrent execution |
 | **Loop** | Iterative improvement needed | Writer + Critic refinement | Repeated cycles |
+
+
+| Pattern | When to Use | Example | Key Feature |
+|---------|-------------|---------|-------------|
