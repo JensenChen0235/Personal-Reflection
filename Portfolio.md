@@ -2,8 +2,8 @@
 📅 12.16 前端之炫酷动效的来源，为什么那些炫酷网站很难有教学？
 	因为他们用了这些技术栈！！！
 Three.js：做 3D 主视觉。
-GSAP：做动画时间线/转场 [https://lenis.darkroom.engineering/]。
-Lenis：做丝滑滚动 [https://gsap.com/]。
+GSAP：做动画时间线/转场 [https://lenis.darkroom.engineering/]
+Lenis：做丝滑滚动 [https://gsap.com/]
 Canvas：做 HUD/线条/粒子点缀
   所以作为一个半吊子写界面的人，要先打好react框架的基础，然后再能够灵活调用这些牛逼的库，最后要保持节约成本和提高转化的思想把东西实现出来。
   思考：最后作品要做出什么？或许做出一个炫酷网页并不是最终目的，但是要在AI时代找到自己的定位，我是一个能够做出高质量效果的全栈AI应用人才。
