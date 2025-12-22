@@ -20,9 +20,10 @@ Canvas：做 HUD/线条/粒子点缀
 ## 📅 12.19-12.22 临摹了苹果网站[https://gsap-macbook-landing-vert.vercel.app/]放在github并用vercel部署了
 #### 技术栈：Vite+React
 <img width="1718" height="2170" alt="image" src="https://github.com/user-attachments/assets/66bdd527-cf13-4b2c-96b5-dc3b98fa5425" />
-#### 0.用terminal里部署好环境，搭好框架
-#### 1.在App.jsx里写的是各个部分的框架
-#### 2.在/src/component文件夹里一个一个写每个部分的jsx文件
-#### 3.在/public文件夹里存资产
-#### 3.在public存资产
+
+0.用terminal里部署好环境，搭好框架 <br />
+1.在App.jsx里写的是各个部分的框架 <br />
+2.在/src/component文件夹里一个一个写每个部分的jsx文件 <br />
+3.在/public文件夹里存资产 <br />
+4.在public存资产 <br />
 ⚠️具体的语法还没有完全搞懂，视频间切换会产生loading的问题还没有解决
