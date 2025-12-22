@@ -17,7 +17,7 @@ Canvas：做 HUD/线条/粒子点缀
 #### 5.解决问题能力：什么目标+什么场景+在此场景下的什么问题+怎么解决+怎么验证
 #### 6.商业化思维：边际递减+机会成本+帕累托最优，打歼灭战
 
-## 📅 12.19-12.22 临摹了苹果网站[https://gsap-macbook-landing-vert.vercel.app/]放在github并用vercel部署了
+## 📅 12.19-12.22 临摹了苹果网站 [https://gsap-macbook-landing-vert.vercel.app/]  放在github并用vercel部署了
 #### 技术栈：Vite+React
 <img width="1718" height="2170" alt="image" src="https://github.com/user-attachments/assets/66bdd527-cf13-4b2c-96b5-dc3b98fa5425" />
 
