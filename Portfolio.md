@@ -54,7 +54,8 @@ Prop VS State<br/>
 Props 决定“你拿到什么”（从APP.tsx传到特定的组件的tsx），<br/>
 State 决定“你现在处在什么状态”（组件里面自己的，比如选中了什么）。<br/>
 
-
+<img width="1124" height="508" alt="image" src="https://github.com/user-attachments/assets/17745a63-874b-4633-9f43-dd27d8b8c840" /> <br/>
+React Arrow Function Component Export<br/>
 
 
 
