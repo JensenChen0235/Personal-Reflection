@@ -27,3 +27,38 @@ Canvas：做 HUD/线条/粒子点缀
 3.在/public文件夹里存资产 <br />
 4.在public存资产 <br />
 ⚠️具体的语法还没有完全搞懂，视频间切换会产生loading的问题还没有解决(已解决，详见12.23 00:22的github更新)
+
+## 📅 12.23 Mosh的React教程
+<img width="962" height="626" alt="image" src="https://github.com/user-attachments/assets/ebc37836-eb31-429f-a86c-2791cc24b2d3" /> <br/>
+	return里面这里要用东西包着<br/>
+<br/>
+
+<img width="1122" height="640" alt="image" src="https://github.com/user-attachments/assets/d98ed710-9028-4525-a1f3-28819cd91fa5" />  <br/>
+	这里的key是要说明我们应该给item一个key<br/>
+	key 是 React 用来：<br/>
+	•	区分列表里的每一项<br/>
+	•	提高 diff & 更新性能<br/>
+	•	防止渲染错乱<br/>
+
+ 
+<img width="602" height="240" alt="image" src="https://github.com/user-attachments/assets/bea08626-cf00-4c8e-bd94-1564917834fe" /> <br/>
+	className命名<br/>
+
+<img width="1519" height="476" alt="image" src="https://github.com/user-attachments/assets/5f4744f4-027b-4a49-b935-379d010b89f5" /> <br/>
+	语法: ? 前面如果是true输出？后面的，否则输出：后面的<br/>
+
+<img width="804" height="42" alt="image" src="https://github.com/user-attachments/assets/5fdb58e8-a8d0-45ed-a550-6c0ee8388b18" />  <br/>
+	语法：&&前面如果true输出&&后面的，否则不渲染在浏览器（看不到）<br/>
+
+Prop VS State<br/>
+Props 决定“你拿到什么”，<br/>
+State 决定“你现在处在什么状态”。<br/>
+
+
+
+
+
+
+
+
+
