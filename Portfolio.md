@@ -66,9 +66,9 @@ React Arrow Function Component Export<br/>
 首先要分析点赞前状态（空心），点赞后状态（实心红色），把这两个在组件的tsx实现出来。<br/>
 然后用一个useState来切换，对应（true or false），分别return实心和空心<br/>
 
-为什么我写代码会举步维艰，从现在起得有抽象和宏观思维，不要沉浸在具体的语法，要先搭建解决的架构<br/>
+为什么我写代码会举步维艰，从现在起得有抽象和宏观思维，不要沉浸在具体的语法，要先搭建解决的架构
 
-asynchronously 异步：我先去干别的，好了再叫我
+	asynchronously 异步：我先去干别的，好了再叫我
 
 
 
