@@ -30,5 +30,6 @@ square brackets 方括号[]
 
 brace 花括号 {}
 
+asynchronous异步
 
 
