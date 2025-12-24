@@ -24,3 +24,11 @@ synthesize合成
 
 Grounding in Reality, Changing the World 立足现实，改变世界
 
+hyphen 连字符-
+
+square brackets 方括号[]
+
+brace 花括号 {}
+
+
+
