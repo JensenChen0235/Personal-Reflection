@@ -28,7 +28,7 @@ Canvas：做 HUD/线条/粒子点缀
 4.在public存资产 <br />
 ⚠️具体的语法还没有完全搞懂，视频间切换会产生loading的问题还没有解决(已解决，详见12.23 00:22的github更新)
 
-## 📅 12.23 Mosh的React教程
+## 📅 12.23 Mosh的React教程1-20
 <img width="962" height="626" alt="image" src="https://github.com/user-attachments/assets/ebc37836-eb31-429f-a86c-2791cc24b2d3" /> <br/>
 	return里面这里要用东西包着<br/>
 <br/>
@@ -56,6 +56,21 @@ State 决定“你现在处在什么状态”（组件里面自己的，比如�
 
 <img width="1124" height="508" alt="image" src="https://github.com/user-attachments/assets/17745a63-874b-4633-9f43-dd27d8b8c840" /> <br/>
 React Arrow Function Component Export<br/>
+
+## 📅 12.23 Mosh的React教程20-
+语法糖：让人更好吃，但不改变本质，降低人写代码的认知负担<br/>
+
+<img width="118" height="120" alt="image" src="https://github.com/user-attachments/assets/c8695ace-b62e-4e62-a7b3-901b0339379a" /> <img width="122" height="118" alt="image" src="https://github.com/user-attachments/assets/e3edca1b-cdde-4088-8371-3b2ad48a07dd" /> <br/>
+
+点赞的功能设计：<br/>
+首先要分析点赞前状态（空心），点赞后状态（实心红色），把这两个在组件的tsx实现出来。<br/>
+然后用一个useState来切换，对应（true or false），分别return实心和空心<br/>
+
+为什么我写代码会举步维艰，从现在起得有抽象和宏观思维，不要沉浸在具体的语法，要先搭建解决的架构<br/>
+
+
+
+
 
 
 
