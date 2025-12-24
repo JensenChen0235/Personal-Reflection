@@ -68,6 +68,8 @@ React Arrow Function Component Export<br/>
 
 为什么我写代码会举步维艰，从现在起得有抽象和宏观思维，不要沉浸在具体的语法，要先搭建解决的架构<br/>
 
+asynchronously 异步：我先去干别的，好了再叫我
+
 
 
 
