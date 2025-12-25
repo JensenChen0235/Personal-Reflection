@@ -93,11 +93,11 @@ Prompt的撰写
 
 
 ## 📅 12.26 做了一个SoundButton按钮
-静音
+静音 <br/> 
 <img width="66" height="64" alt="image" src="https://github.com/user-attachments/assets/2f9c7ee9-f07a-482b-8f19-deab293f3187" /> <br/> 
-有动效播放
+有动效播放 <br/> 
 <img width="69" height="61" alt="image" src="https://github.com/user-attachments/assets/d96a06ed-9238-492b-ba1e-ae4a910e5d3f" /> <br/> 
-Hover 从不同方位进去那个蓝色就从那个方位移入，然后Hover移出就从不同地方出去，会完全出去（解决了卡在边缘的问题）
+Hover 从不同方位进去那个蓝色就从那个方位移入，然后Hover移出就从不同地方出去，会完全出去（解决了卡在边缘的问题） <br/> 
 <img width="56" height="59" alt="image" src="https://github.com/user-attachments/assets/56840689-c2e8-4f3d-bb95-8fd256ac0c98" />
 
 
