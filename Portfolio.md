@@ -57,7 +57,7 @@ State 决定“你现在处在什么状态”（组件里面自己的，比如�
 <img width="1124" height="508" alt="image" src="https://github.com/user-attachments/assets/17745a63-874b-4633-9f43-dd27d8b8c840" /> <br/>
 React Arrow Function Component Export<br/>
 
-## 📅 12.23 Mosh的React教程20-
+## 📅 12.24 Mosh的React教程20-
 语法糖：让人更好吃，但不改变本质，降低人写代码的认知负担<br/>
 
 <img width="118" height="120" alt="image" src="https://github.com/user-attachments/assets/c8695ace-b62e-4e62-a7b3-901b0339379a" /> <img width="122" height="118" alt="image" src="https://github.com/user-attachments/assets/e3edca1b-cdde-4088-8371-3b2ad48a07dd" /> <br/>
@@ -70,9 +70,35 @@ React Arrow Function Component Export<br/>
 
 asynchronously 异步：我先去干别的，好了再叫我<br/>
 
+## 📅 12.25 Lusion模拟+prompt格式刻意练习
+<img width="694" height="486" alt="image" src="https://github.com/user-attachments/assets/5ae2c250-bf63-4487-8ce6-66eb69f192e5" /> <br/>
+<img width="716" height="458" alt="image" src="https://github.com/user-attachments/assets/e44d7be5-2771-4eb9-b351-8972b9f6a216" /><br/>
+<img width="1920" height="959" alt="image" src="https://github.com/user-attachments/assets/5330ac66-618d-4afc-b3d8-9acfff34f45d" /><br/>
+
+这个方法真的天才，能轻松画出这样的曲线<br/>
 
 
+Prompt的撰写
+角色与目标：你是一名资深的前端架构师和网页3D建模渲染开发者。请帮我构建一个单文件（Single-File）的 React 应用，这是一个具有“拍照识别卡路里”功能的 Progressive Web App (PWA)。
+技术栈：1.Framework: React (使用 Functional Components + Hooks)2.Styling: Tailwind CSS (追求现代、干净、移动端优先的 UI)3.Icons: Lucide-React4.AI Model: Gemini
+核心功能：1.相机界面：主界面是一个全屏的取景框。底部有一个明显的圆形“快门/上传”按钮，支持 <input type="file" capture="environment" /> 调用后摄。2.实时 Gemini 分析：（1）核心逻辑：编写异步函数 analyzeFoodImage(base64Image, apiKey)。（2）SDK调用：初始化 GoogleGenerativeAI，获取 gemini-1.5-flash 模型。（3）Prompt设计：向 Gemini 发送图片和以下 Prompt："Analyze this image. Identify the food items. Return a JSON object with fields: foodName (string), calories (integer), protein (string, e.g., '20g'), carbs (string), fat (string), explanation (short sentence). Do not use Markdown formatting in the response, just raw JSON."（4）错误处理：处理 API 额度超限或网络错误，给予用户友好的 Toast 提示。3.结果展示卡片：（1）解析 Gemini 返回的 JSON 数据。（2）以精美的半透明磨砂玻璃（Glassmorphism）效果从底部弹出结果。（3）使用进度条可视化展示三大营养素占比。4.PWA 特性：（1）包含标准的 manifest.json 配置（作为注释块提供）。（2）界面必须适配移动端触摸操作（Touch-friendly）。5.设计美学：（1）配色方案：使用游戏科技配色，传达减脂、动感的感觉。（2）字体：无衬线字体，清晰易读。（3）应用的名字为“Jensen Cal”。6.功能需求：（1）加入历史记录功能，以天为记录单位记录每天的卡路里。（2）饮食目标为增肌、减肥或者保持体重，同时允许用户输入每日卡路里摄入的目标值。（3）每次记录的时候用户可以选择记录为早餐、午餐、晚餐还是加餐，记录可以修改。（4）用户点击历史记录卡片的时候，可以看到识别时候的详细信息。（5）每天的记录好早餐、午餐、晚餐之后（加餐非选项），出现“分析今日饮食”的按键，点击之后可以分析今日摄入卡路里的情况、改进的意见以及完成目标的情况（增肌、减肥、保持体重）。（6）用户可以点击右上角设置图标中的选择记录卡片按键进行全选删除。（7）饮食记录每一天的卡片格式帮我按照早餐、午餐和晚餐的格式排序。（8）如果识别之后不记录的话，照片记得帮我同时刷新去掉。（9）首次使用应用时，添加一个简短的用户引导流程，介绍核心功能：拍照识别、历史记录和饮食目标设置。7.输出要求：请生成一个完整的 .html 文件（包含 React 和 Babel 的 CDN 链接，以便单文件运行），代码需要有详细的注释，特别是 Gemini API 调用部分。
 
+1.版本号：我已经按照你给我的代码，写到了我的VScode上，现在的版本需要标记版本1.0.
+2.角色：你是一名非常擅长做创意网页，做出的网页获得过awwward的year of site的资深的前端架构师和网页3D建模渲染和动效开发者。
+3.任务目标：
+4.规则红线：
+5.工作流程：
+6.交付格式：
+7.执行指令：
+
+
+## 📅 12.26 做了一个SoundButton按钮
+静音
+<img width="66" height="64" alt="image" src="https://github.com/user-attachments/assets/2f9c7ee9-f07a-482b-8f19-deab293f3187" /> <br/> 
+有动效播放
+<img width="69" height="61" alt="image" src="https://github.com/user-attachments/assets/d96a06ed-9238-492b-ba1e-ae4a910e5d3f" /> <br/> 
+Hover 从不同方位进去那个蓝色就从那个方位移入，然后Hover移出就从不同地方出去，会完全出去（解决了卡在边缘的问题）
+<img width="56" height="59" alt="image" src="https://github.com/user-attachments/assets/56840689-c2e8-4f3d-bb95-8fd256ac0c98" />
 
 
 
