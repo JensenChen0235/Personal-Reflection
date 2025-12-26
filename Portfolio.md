@@ -98,8 +98,11 @@ Prompt的撰写
 有动效播放 <br/> 
 <img width="69" height="61" alt="image" src="https://github.com/user-attachments/assets/d96a06ed-9238-492b-ba1e-ae4a910e5d3f" /> <br/> 
 Hover 从不同方位进去那个蓝色就从那个方位移入，然后Hover移出就从不同地方出去，会完全出去（解决了卡在边缘的问题） <br/> 
-<img width="56" height="59" alt="image" src="https://github.com/user-attachments/assets/56840689-c2e8-4f3d-bb95-8fd256ac0c98" />
-
+<img width="56" height="59" alt="image" src="https://github.com/user-attachments/assets/56840689-c2e8-4f3d-bb95-8fd256ac0c98" /> <br/> 
+	<div className="labs-text-mask">
+        <motion.span variants={{rest:{y:0}, hover:{y:"-100%"}}}>LABS</motion.span>
+        <motion.span className="abs-top" variants={{rest:{y:"-100%"}, hover:{y:0}}}>LABS</motion.span>
+    </div>
 
 
 
