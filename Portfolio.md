@@ -99,12 +99,37 @@ Prompt的撰写
 <img width="69" height="61" alt="image" src="https://github.com/user-attachments/assets/d96a06ed-9238-492b-ba1e-ae4a910e5d3f" /> <br/> 
 Hover 从不同方位进去那个蓝色就从那个方位移入，然后Hover移出就从不同地方出去，会完全出去（解决了卡在边缘的问题） <br/> 
 <img width="56" height="59" alt="image" src="https://github.com/user-attachments/assets/56840689-c2e8-4f3d-bb95-8fd256ac0c98" /> <br/> 
+	
 	<div className="labs-text-mask">
         <motion.span variants={{rest:{y:0}, hover:{y:"-100%"}}}>LABS</motion.span>
         <motion.span className="abs-top" variants={{rest:{y:"-100%"}, hover:{y:0}}}>LABS</motion.span>
     </div>
 
+苹果的箭头→（ctrl+com+space调出来）在button是不一样的格式（要记得调样式），这个时候要改成div。<br/> 
+	<div className="email-btn"> →</div>
 
+<img width="960" height="925" alt="image" src="https://github.com/user-attachments/assets/05024687-e6a8-4654-8365-ab5cbbc2d445" /><br/> 
+
+## 📅 12.27 做了AboutSection和Featured Work的内容
+实现了仿照Lusion网站的3D的模型效果：<br/> 
+	•	屏幕里有 30 个“工业积木”（其实是 3 根带孔圆柱互相贯穿 + 中间一个 RoundedBox 过渡块）。<br/> 
+	•	它们都在一个 零重力物理世界里漂浮（Rapier Physics）。<br/> 
+	•	它们会被一个“看不见的中心磁铁”往原点吸（向心力）。<br/> 
+	•	同时又有一点“水中呼吸感”的随机漂移（drift）。<br/> 
+	•	鼠标位置是一个“隐形推杆/推子”（kinematic collider），移动鼠标会推开物体。<br/> 
+	•	点击（pointer down）会触发：<br/> 
+	1.	切换配色（背景 + 彩色物体）<br/> 
+	2.	从鼠标点击位置爆发一个“冲击波”，把附近物体震飞并甩着转（impulse + torque）<br/> 
+
+再加上：<br/> 
+	•	摄像机是自适应推拉的：窗口越宽越靠近，窗口越窄越拉远（AdaptiveCamera）。<br/> 
+	•	灯光是“摄影棚 softbox”，环境光 + 三个 Lightformer。<br/> 
+	•	后期做 AO（物体缝隙阴影）+ 色调映射（ToneMapping）。<br/> 
+
+⚠️不会做Lusion这里的视频变大的动画。<br/> 
+
+## 📅 12.28 反思了做的顺序
+得先确定好布局，然后再去做效果，做效果的时候一点一点给AI说（之前做的顺序没有标准化，没有形成工作流）。<br/> 
 
 
 
