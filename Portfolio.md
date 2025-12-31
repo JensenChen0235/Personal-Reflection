@@ -136,6 +136,11 @@ prompt描述的时候得要有内容，比如说它改UI不能只说“所有要
 使用了router来控制页面。<br/> 
 
 	npm install react-router-dom
+	
+## 📅 12.30-31 做了Footer和新建的放项目的页面。
+<img width="952" height="925" alt="image" src="https://github.com/user-attachments/assets/3a2e109d-9b06-4ae5-aa50-0090d2011ed4" /><br/> 
+TRAE的footer底部设计可以参考，它是有点视差的感觉，然后鼠标滑有拖动的效果。
+
 
 
 
