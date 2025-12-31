@@ -14,16 +14,16 @@ prompt🌰
 
 SunoAI解析网站（教学与解释）
 [https://32kw.com/view/cebffa8]  
-做了一首citypop的歌  
-[Rhodes + synth pad, night city ambience.mp3](https://github.com/user-attachments/files/24394218/Rhodes.%2B.synth.pad.night.city.ambience.mp3)  
-    Japanese city pop (late 80s to early 90s), retro J-pop with soft funk and disco groove,
+做了一首citypop的歌   <br />
+[Rhodes + synth pad, night city ambience.mp3](https://github.com/user-attachments/files/24394218/Rhodes.%2B.synth.pad.night.city.ambience.mp3)   <br />
+Japanese city pop (late 80s to early 90s), retro J-pop with soft funk and disco groove,
 mid-tempo 98 BPM, smooth and laid-back rhythm,
 warm Rhodes electric piano, clean chorus electric guitar, groovy bassline,
 lush synth pads, tight drum kit with crisp snare, subtle handclaps,
 night city / neon lights atmosphere, nostalgic, romantic, slightly melancholic,
 soft intimate female vocal, gentle and mature tone,
-tape warmth, light chorus, glossy reverb, clean mix  
-   [Intro]
+tape warmth, light chorus, glossy reverb, clean mix <br />
+[Intro]
 Rhodes + synth pad, night city ambience
 
 [Verse 1]
