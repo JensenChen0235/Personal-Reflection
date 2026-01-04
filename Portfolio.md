@@ -144,6 +144,6 @@ TRAE的footer底部设计可以参考，它是有点视差的感觉，然后鼠�
 ## 📅 1.1-1.3 改了音乐全局播放，做了各个按钮的音效
 
 ## 📅 1.4 react课
-<img width="1086" height="695" alt="image" src="https://github.com/user-attachments/assets/4ac9277f-dd15-49ad-9c77-a067c413c027" />
-
+<img width="1086" height="695" alt="image" src="https://github.com/user-attachments/assets/4ac9277f-dd15-49ad-9c77-a067c413c027" />  
+在使用usestate的时候，避免多余的变量，如果有多个变量可以把它弄成这样的组。
 
