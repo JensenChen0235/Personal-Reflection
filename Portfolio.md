@@ -146,4 +146,6 @@ TRAE的footer底部设计可以参考，它是有点视差的感觉，然后鼠�
 ## 📅 1.4 react课
 <img width="1086" height="695" alt="image" src="https://github.com/user-attachments/assets/4ac9277f-dd15-49ad-9c77-a067c413c027" />  
 在使用usestate的时候，避免多余的变量，如果有多个变量可以把它弄成这样的组。
+<img width="919" height="427" alt="image" src="https://github.com/user-attachments/assets/e58e4961-1338-4fba-8277-3d3f5b0d9129" />  
+React 函数组件每一次渲染，都会“从头重新执行这个函数。  
 
