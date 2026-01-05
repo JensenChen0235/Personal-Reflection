@@ -150,4 +150,5 @@ TRAE的footer底部设计可以参考，它是有点视差的感觉，然后鼠�
 React 函数组件每一次渲染，都会“从头重新执行这个函数。  
 
 ## 📅 1.5 网站的project1优化
-
+<img width="3444" height="1812" alt="image" src="https://github.com/user-attachments/assets/a5452a99-967c-48ea-9417-1101191190d0" />  
+开始复刻苹果的这个点击切换，来展示项目的内容。
