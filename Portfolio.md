@@ -149,3 +149,5 @@ TRAE的footer底部设计可以参考，它是有点视差的感觉，然后鼠�
 <img width="919" height="427" alt="image" src="https://github.com/user-attachments/assets/e58e4961-1338-4fba-8277-3d3f5b0d9129" />  
 React 函数组件每一次渲染，都会“从头重新执行这个函数。  
 
+## 📅 1.5 网站的project1优化
+
