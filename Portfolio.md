@@ -179,4 +179,7 @@ spec coding像是写了个PRD
 ## 📅 1.9 Project1黑色底的布局
 <img width="3456" height="1926" alt="image" src="https://github.com/user-attachments/assets/7538bb31-b657-401f-8e25-fe895d0df54b" />  
 - 搭好了motion lab的框架
+## 📅 1.10 还是复刻不出效果
+<img width="1900" height="772" alt="image" src="https://github.com/user-attachments/assets/99ed0fd1-3924-4804-bcb5-3239301dbdcf" />
+要思考我放json文件还是要自己复刻一下。
 
