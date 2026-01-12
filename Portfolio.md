@@ -185,3 +185,5 @@ spec coding像是写了个PRD
 ## 📅 1.11 下滑到底部的About me
 <img width="3456" height="1926" alt="image" src="https://github.com/user-attachments/assets/84b77d4d-8692-49a2-b8cc-fc0d6b4ac893" />  
 做了点云的效果，做了About me的页面
+## 📅 1.12 About的页面改良
+
