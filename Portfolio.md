@@ -187,6 +187,6 @@ spec coding像是写了个PRD
 做了点云的效果，做了About me的页面
 ## 📅 1.12-1.13 About的页面改良
 <img width="3456" height="1926" alt="image" src="https://github.com/user-attachments/assets/1afb2138-723b-4bba-826e-337e5005f01f" />   
-修改成这样了，左右布局，右边可以滚动经历，有点类似简历
+修改成这样了，左右布局，右边可以滚动经历，有点类似简历  
 
 
