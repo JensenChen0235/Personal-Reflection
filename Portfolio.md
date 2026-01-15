@@ -191,3 +191,8 @@ spec coding像是写了个PRD
 ## 📅 1.14 Logo背景
 用luminance来判断背景是什么颜色的，如果深色就白色文字，反之亦然。
 luminance = 0.2126 * R + 0.7152 * G + 0.0722 * B，WCAG 标准
+## 📅 1.15 确定了Terabox要做的事站长中心的改版
+<img width="934" height="576" alt="image" src="https://github.com/user-attachments/assets/fff5e6ad-9ba1-4682-9e32-d072110f9bd5" />  
+可以用上“鲜时光”的布局图
+<img width="1140" height="1354" alt="image" src="https://github.com/user-attachments/assets/abb8cb9b-9086-47d9-ae08-48a24ad73a75" />
+
