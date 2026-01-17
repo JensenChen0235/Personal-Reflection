@@ -28,7 +28,7 @@ Canvas：做 HUD/线条/粒子点缀
 4.在public存资产 <br />
 ⚠️具体的语法还没有完全搞懂，视频间切换会产生loading的问题还没有解决(已解决，详见12.23 00:22的github更新)
 
-## 📅 12.23 Mosh的React教程1-20
+## 📅 12.23 Mosh的React教程1-20  
 <img width="962" height="626" alt="image" src="https://github.com/user-attachments/assets/ebc37836-eb31-429f-a86c-2791cc24b2d3" /> <br/>
 	return里面这里要用东西包着<br/>
 <br/>
@@ -190,13 +190,13 @@ spec coding像是写了个PRD
 修改成这样了，左右布局，右边可以滚动经历，有点类似简历  
 ## 📅 1.14 Logo背景
 用luminance来判断背景是什么颜色的，如果深色就白色文字，反之亦然。
-luminance = 0.2126 * R + 0.7152 * G + 0.0722 * B，WCAG 标准
-## 📅 1.15 确定了Terabox要做的事站长中心的改版
+luminance = 0.2126 * R + 0.7152 * G + 0.0722 * B，WCAG 标准  
+## 📅 1.15 确定了Terabox要做的事站长中心的改版  
 <img width="934" height="576" alt="image" src="https://github.com/user-attachments/assets/fff5e6ad-9ba1-4682-9e32-d072110f9bd5" />  
 可以用上“鲜时光”的布局图
-<img width="1140" height="1354" alt="image" src="https://github.com/user-attachments/assets/abb8cb9b-9086-47d9-ae08-48a24ad73a75" />
-## 📅 1.16 写完Terabox每个部分要的内容
-要体现落地项目的优势
-WCAG guidelines：让残障用户、老年人、不同设备与环境下的用户，都能“看得见、听得懂、用得了、不会被卡死”。
-## 📅 1.17 填充了前面的内容，包括植入了一个可播放的视频
+<img width="1140" height="1354" alt="image" src="https://github.com/user-attachments/assets/abb8cb9b-9086-47d9-ae08-48a24ad73a75" />  
+## 📅 1.16 写完Terabox每个部分要的内容  
+要体现落地项目的优势  
+WCAG guidelines：让残障用户、老年人、不同设备与环境下的用户，都能“看得见、听得懂、用得了、不会被卡死”。  
+## 📅 1.17 填充了前面的内容，包括植入了一个可播放的视频  
 <img width="818" height="590" alt="image" src="https://github.com/user-attachments/assets/ebd81f4f-ffdb-46f3-8d60-9a376c8a8879" />
