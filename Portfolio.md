@@ -198,3 +198,5 @@ luminance = 0.2126 * R + 0.7152 * G + 0.0722 * B，WCAG 标准
 ## 📅 1.16 写完Terabox每个部分要的内容
 要体现落地项目的优势
 WCAG guidelines：让残障用户、老年人、不同设备与环境下的用户，都能“看得见、听得懂、用得了、不会被卡死”。
+## 📅 1.17 填充了前面的内容，包括植入了一个可播放的视频
+<img width="818" height="590" alt="image" src="https://github.com/user-attachments/assets/ebd81f4f-ffdb-46f3-8d60-9a376c8a8879" />
