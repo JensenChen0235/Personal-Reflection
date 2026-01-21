@@ -204,3 +204,5 @@ WCAG guidelines：让残障用户、老年人、不同设备与环境下的用�
 <img width="866" height="364" alt="image" src="https://github.com/user-attachments/assets/41b3d120-9965-410f-bff6-d09b305c4503" />
 ## 📅 1.19部署上线了，暂无卡顿问题  
 手机端的布局有很大问题
+## 📅 1.20-21responsive design
+做完了所有的此类设计，后续如果要继续设计，可以最后再调整布局。
