@@ -207,4 +207,6 @@ WCAG guidelines：让残障用户、老年人、不同设备与环境下的用�
 ## 📅 1.20-21responsive design
 做完了所有的此类设计，后续如果要继续设计，可以最后再调整布局。
 ## 📅 1.22-23terabox内容变junior，AI生成3d图
+## 📅 1.24-25terabox做完persona
+
 
