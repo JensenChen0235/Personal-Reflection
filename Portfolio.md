@@ -175,7 +175,7 @@ React 函数组件每一次渲染，都会“从头重新执行这个函数。
 vibe coding更创意，复现难。
 spec coding像是写了个PRD
 <img width="3456" height="1926" alt="image" src="https://github.com/user-attachments/assets/fb44c36c-ddd5-4887-a2a1-cd82a7b1c687" />   
-做了before和after以及数字的转动效果 
+做了before和after以及数字的转动效果
 ## 📅 1.9 Project1黑色底的布局
 <img width="3456" height="1926" alt="image" src="https://github.com/user-attachments/assets/7538bb31-b657-401f-8e25-fe895d0df54b" />  
 - 搭好了motion lab的框架
