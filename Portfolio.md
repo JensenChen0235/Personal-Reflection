@@ -194,25 +194,36 @@ spec coding像是写了个PRD
 
 ## 📅 1.14 Logo背景
 用luminance来判断背景是什么颜色的，如果深色就白色文字，反之亦然。
-luminance = 0.2126 * R + 0.7152 * G + 0.0722 * B，WCAG 标准  
+luminance = 0.2126 * R + 0.7152 * G + 0.0722 * B，WCAG 标准
+
 ## 📅 1.15 确定了Terabox要做的事站长中心的改版  
 <img width="934" height="576" alt="image" src="https://github.com/user-attachments/assets/fff5e6ad-9ba1-4682-9e32-d072110f9bd5" />  
 可以用上“鲜时光”的布局图
-<img width="1140" height="1354" alt="image" src="https://github.com/user-attachments/assets/abb8cb9b-9086-47d9-ae08-48a24ad73a75" />  
+<img width="1140" height="1354" alt="image" src="https://github.com/user-attachments/assets/abb8cb9b-9086-47d9-ae08-48a24ad73a75" /> 
+
 ## 📅 1.16 写完Terabox每个部分要的内容  
 要体现落地项目的优势  
-WCAG guidelines：让残障用户、老年人、不同设备与环境下的用户，都能“看得见、听得懂、用得了、不会被卡死”。  
+WCAG guidelines：让残障用户、老年人、不同设备与环境下的用户，都能“看得见、听得懂、用得了、不会被卡死”。
+
 ## 📅 1.17 填充了前面的内容，包括植入了一个可播放的视频  
 <img width="818" height="590" alt="image" src="https://github.com/user-attachments/assets/ebd81f4f-ffdb-46f3-8d60-9a376c8a8879" />
+
 ## 📅 1.18还有没调整的最后再调
 <img width="866" height="364" alt="image" src="https://github.com/user-attachments/assets/41b3d120-9965-410f-bff6-d09b305c4503" />
+
 ## 📅 1.19部署上线了，暂无卡顿问题  
 手机端的布局有很大问题
+
 ## 📅 1.20-21responsive design
 做完了所有的此类设计，后续如果要继续设计，可以最后再调整布局。
+
 ## 📅 1.22-23terabox内容变junior，AI生成3d图
+
 ## 📅 1.24-25terabox做完persona
+
 ## 📅 1.24-26Layout Design之前
+
 ## 📅 1.27-1.30 休息
-## 📅 1.31 转变身份
+
+## 📅 1.31 修改了persona切换的效果
 
