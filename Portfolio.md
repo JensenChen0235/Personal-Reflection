@@ -178,16 +178,20 @@ spec coding像是写了个PRD
 做了before和after以及数字的转动效果
 ## 📅 1.9 Project1黑色底的布局
 <img width="3456" height="1926" alt="image" src="https://github.com/user-attachments/assets/7538bb31-b657-401f-8e25-fe895d0df54b" />  
-- 搭好了motion lab的框架
+搭好了motion lab的框架
+
 ## 📅 1.10 还是复刻不出效果
 <img width="1900" height="772" alt="image" src="https://github.com/user-attachments/assets/99ed0fd1-3924-4804-bcb5-3239301dbdcf" />
 要思考我放json文件还是要自己复刻一下。
+
 ## 📅 1.11 下滑到底部的About me
 <img width="3456" height="1926" alt="image" src="https://github.com/user-attachments/assets/84b77d4d-8692-49a2-b8cc-fc0d6b4ac893" />  
 做了点云的效果，做了About me的页面
+
 ## 📅 1.12-1.13 About的页面改良
 <img width="3456" height="1926" alt="image" src="https://github.com/user-attachments/assets/1afb2138-723b-4bba-826e-337e5005f01f" />   
-修改成这样了，左右布局，右边可以滚动经历，有点类似简历  
+修改成这样了，左右布局，右边可以滚动经历，有点类似简历
+
 ## 📅 1.14 Logo背景
 用luminance来判断背景是什么颜色的，如果深色就白色文字，反之亦然。
 luminance = 0.2126 * R + 0.7152 * G + 0.0722 * B，WCAG 标准  
