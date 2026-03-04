@@ -245,3 +245,8 @@ WCAG guidelines：让残障用户、老年人、不同设备与环境下的用�
 
 ## 📅 3.4 改了footer，并且能真的留邮箱发到我邮箱里
 用了EmailJS
+
+## 📅 3.5 待完成的内容
+1.确认menu按钮跳转对应的地方
+2.Terabox的文案内容和配图，web+mobile
+3.poster design的内容和交互
