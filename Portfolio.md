@@ -250,3 +250,7 @@ WCAG guidelines：让残障用户、老年人、不同设备与环境下的用�
 1.确认menu按钮跳转对应的地方
 2.Terabox的文案内容和配图，web+mobile
 3.poster design的内容和交互
+
+
+## 📅 3.6-3.12 做了sungrow的project
+先做完了figma版本，然后把它弄到网站上
